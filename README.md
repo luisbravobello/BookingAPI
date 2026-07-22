@@ -54,8 +54,8 @@ BookingAPI/
 |--------|----------|-------------|
 | `GET` | `/api/Servicios` | Lista todos los servicios disponibles |
 | `POST` | `/api/Servicios` | Crea un nuevo servicio |
-| `POST` | `/api/Reservas` | Crea una reserva (Incluye validación de solapamiento) |
+| `POST` | `/api/Reservas` | Crea una reserva |
 
-## 👨‍💻 Autor
+## Autor
 **Luis Alejandro Bravo Bello**  
 *Estudiante de Ingeniería de Software*
